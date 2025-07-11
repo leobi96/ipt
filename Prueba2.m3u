@@ -71,7 +71,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/8620
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/8621
 #EXTINF:-1 tvg-id="ext" tvg-name="CINEMA PPV-Cinema 37 (M)(1080)" tvg-logo="" group-title="Cine",CINEMA PPV-Cinema 37 (M)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/8622
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE - A&E (L)(1080)" tvg-logo="" group-title="cine",CINE - A&E (L)(1080)
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE - A&E (L)(1080)" tvg-logo="" group-title="Cine",CINE - A&E (L)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9614
 #EXTINF:-1 tvg-id="ext" tvg-name="CINE - A&E (M)(1080)" tvg-logo="" group-title="Cine",CINE - A&E (M)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9615
@@ -279,7 +279,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9639
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9640
 #EXTINF:-1 tvg-id="ext" tvg-name="CINE - De Peliculas Clasico (Z)(1080)" tvg-logo="" group-title="Cine",CINE - De Peliculas Clasico (Z)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9641
-#EXTINF:-1 tvg-id="ext" tvg-name="CINE - De PelÃ­cula (TV)(1080)" tvg-logo="" group-title="Cine",CINE - De PelÃ­cula (TV)(1080)
+#EXTINF:-1 tvg-id="ext" tvg-name="CINE - De Película (TV)(1080)" tvg-logo="" group-title="Cine",CINE - De Película (TV)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9642
 #EXTINF:-1 tvg-id="ext" tvg-name="CINE - DHE (T)(1080)" tvg-logo="" group-title="Cine",CINE - DHE (T)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9643
@@ -617,7 +617,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105628
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94813
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Comedy Central Stand-Up (e)" tvg-logo="" group-title="24/7",24/7 Comedy Central Stand-Up (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95597
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Como conocÃ­ a tu madre" tvg-logo="" group-title="24/7",24/7 Como conocÃ­ a tu madre
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Como conocí a tu madre" tvg-logo="" group-title="24/7",24/7 Como conocí a tu madre
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94857
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Con el culo al aire (e)" tvg-logo="" group-title="24/7",24/7 Con el culo al aire (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94851
@@ -677,7 +677,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102887
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110040
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Ecomoda" tvg-logo="" group-title="24/7",24/7 Ecomoda
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95585
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Auto FantÃ¡stico (e)" tvg-logo="" group-title="24/7",24/7 El Auto FantÃ¡stico (e)
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Auto Fantástico (e)" tvg-logo="" group-title="24/7",24/7 El Auto Fantástico (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96694
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Campamento de Lazlo (e)" tvg-logo="" group-title="24/7",24/7 El Campamento de Lazlo (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102889
@@ -691,15 +691,15 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94993
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94852
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Escuadron Diabolico (1969)" tvg-logo="" group-title="24/7",24/7 El Escuadron Diabolico (1969)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105631
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 El EscuadrÃ³n del tiempo (e)" tvg-logo="" group-title="24/7",24/7 El EscuadrÃ³n del tiempo (e)
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Escuadrón del tiempo (e)" tvg-logo="" group-title="24/7",24/7 El Escuadrón del tiempo (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102890
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Espectacular Hombre-AraÃ±a (2008)(e)" tvg-logo="" group-title="24/7",24/7 El Espectacular Hombre-AraÃ±a (2008)(e)
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Espectacular Hombre-Araña (2008)(e)" tvg-logo="" group-title="24/7",24/7 El Espectacular Hombre-Araña (2008)(e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101894
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 El fantasma revoltoso (1971)" tvg-logo="" group-title="24/7",24/7 El fantasma revoltoso (1971)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105632
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Fantasma Revoltoso (e)(SD)" tvg-logo="" group-title="24/7",24/7 El Fantasma Revoltoso (e)(SD)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110041
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Hombre-AraÃ±a: Sin Limites (1999)(e)" tvg-logo="" group-title="24/7",24/7 El Hombre-AraÃ±a: Sin Limites (1999)(e)
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Hombre-Araña: Sin Limites (1999)(e)" tvg-logo="" group-title="24/7",24/7 El Hombre-Araña: Sin Limites (1999)(e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/101899
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Juego de las Llaves (e)" tvg-logo="" group-title="24/7",24/7 El Juego de las Llaves (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94853
@@ -717,7 +717,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94937
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94823
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 El nuevo show del Oso Yogi (1988)" tvg-logo="" group-title="24/7",24/7 El nuevo show del Oso Yogi (1988)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105635
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 El seÃ±or de los anillos: Los anillos de poder (e)" tvg-logo="" group-title="24/7",24/7 El seÃ±or de los anillos: Los anillos de poder (e)
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 El señor de los anillos: Los anillos de poder (e)" tvg-logo="" group-title="24/7",24/7 El señor de los anillos: Los anillos de poder (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95594
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 El Show de Huckleberry Hound" tvg-logo="" group-title="24/7",24/7 El Show de Huckleberry Hound
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110042
@@ -797,7 +797,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95643
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95009
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Infantil - Ben 10: Ultimate Alien (e)" tvg-logo="" group-title="24/7",24/7 Infantil - Ben 10: Ultimate Alien (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95648
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Infantil - CapitÃ¡n Calzoncillos (e)" tvg-logo="" group-title="24/7",24/7 Infantil - CapitÃ¡n Calzoncillos (e)
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Infantil - Capitán Calzoncillos (e)" tvg-logo="" group-title="24/7",24/7 Infantil - Capitán Calzoncillos (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95023
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Infantil - El Chavo Animado (e)" tvg-logo="" group-title="24/7",24/7 Infantil - El Chavo Animado (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95012
@@ -819,7 +819,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95022
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102583
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Infantil - Los Padrinos Magicos" tvg-logo="" group-title="24/7",24/7 Infantil - Los Padrinos Magicos
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95653
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Infantil - Los pingÃ¼inos de Madagascar" tvg-logo="" group-title="24/7",24/7 Infantil - Los pingÃ¼inos de Madagascar
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Infantil - Los pingüinos de Madagascar" tvg-logo="" group-title="24/7",24/7 Infantil - Los pingüinos de Madagascar
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95028
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Infantil - Los Pitufos (e)" tvg-logo="" group-title="24/7",24/7 Infantil - Los Pitufos (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95029
@@ -913,7 +913,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105641
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94841
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Los 4 Fantasticos (e)(SD)" tvg-logo="" group-title="24/7",24/7 Los 4 Fantasticos (e)(SD)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110047
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Los aÃ±os maravillosos (e)" tvg-logo="" group-title="24/7",24/7 Los aÃ±os maravillosos (e)
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Los años maravillosos (e)" tvg-logo="" group-title="24/7",24/7 Los años maravillosos (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96782
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Los Caballeros del Zodiaco (e)" tvg-logo="" group-title="24/7",24/7 Los Caballeros del Zodiaco (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94912
@@ -931,7 +931,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95001
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/102902
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Los locos Addams" tvg-logo="" group-title="24/7",24/7 Los locos Addams
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96777
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Los MagnÃ­ficos (e)" tvg-logo="" group-title="24/7",24/7 Los MagnÃ­ficos (e)
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Los Magníficos (e)" tvg-logo="" group-title="24/7",24/7 Los Magníficos (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96778
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Los Pequenos Picapiedras (e)(SD)" tvg-logo="" group-title="24/7",24/7 Los Pequenos Picapiedras (e)(SD)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/110050
@@ -1011,7 +1011,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94835
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94909
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Pokemon 1al9 (e)" tvg-logo="" group-title="24/7",24/7 Pokemon 1al9 (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94908
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 PolicÃ­a de acero Jiban (e)" tvg-logo="" group-title="24/7",24/7 PolicÃ­a de acero Jiban (e)
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Policía de acero Jiban (e)" tvg-logo="" group-title="24/7",24/7 Policía de acero Jiban (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/96697
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Prison Break (e)" tvg-logo="" group-title="24/7",24/7 Prison Break (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94935
@@ -1019,7 +1019,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/94935
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105646
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Pulpo Manotas (1965)" tvg-logo="" group-title="24/7",24/7 Pulpo Manotas (1965)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/105647
-#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Ranma Â½ (e)" tvg-logo="" group-title="24/7",24/7 Ranma Â½ (e)
+#EXTINF:-1 tvg-id="ext" tvg-name="24/7 Ranma ½ (e)" tvg-logo="" group-title="24/7",24/7 Ranma ½ (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95601
 #EXTINF:-1 tvg-id="ext" tvg-name="24/7 Rebelde (e)" tvg-logo="" group-title="24/7",24/7 Rebelde (e)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/95590
@@ -1243,11 +1243,11 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9546
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9550
 #EXTINF:-1 tvg-id="ext" tvg-name="DEPORTES - beIN Sport USA (M)(720)" tvg-logo="" group-title="Deportes",DEPORTES - beIN Sport USA (M)(720)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9551
-#EXTINF:-1 tvg-id="ext" tvg-name="DEPORTES - beIN Sports Xtra Ã‘ (TV)(720)" tvg-logo="" group-title="Deportes",DEPORTES - beIN Sports Xtra Ã‘ (TV)(720)
+#EXTINF:-1 tvg-id="ext" tvg-name="DEPORTES - beIN Sports Xtra Ñ (TV)(720)" tvg-logo="" group-title="Deportes",DEPORTES - beIN Sports Xtra Ñ (TV)(720)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9552
-#EXTINF:-1 tvg-id="ext" tvg-name="DEPORTES - beIN Sports Ã‘ (T)(1080)" tvg-logo="" group-title="Deportes",DEPORTES - beIN Sports Ã‘ (T)(1080)
+#EXTINF:-1 tvg-id="ext" tvg-name="DEPORTES - beIN Sports Ñ (T)(1080)" tvg-logo="" group-title="Deportes",DEPORTES - beIN Sports Ñ (T)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9553
-#EXTINF:-1 tvg-id="ext" tvg-name="DEPORTES - beIN Sports Ã‘ (TV)(1080)" tvg-logo="" group-title="Deportes",DEPORTES - beIN Sports Ã‘ (TV)(1080)
+#EXTINF:-1 tvg-id="ext" tvg-name="DEPORTES - beIN Sports Ñ (TV)(1080)" tvg-logo="" group-title="Deportes",DEPORTES - beIN Sports Ñ (TV)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9554
 #EXTINF:-1 tvg-id="ext" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="" group-title="Deportes",DEPORTES - Fox Deportes (TV)(720)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9571
@@ -1429,7 +1429,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9833
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9834
 #EXTINF:-1 tvg-id="ext" tvg-name="DOC-Discovery World (Z)(1080)" tvg-logo="" group-title="Documentales",DOC-Discovery World (Z)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9790
-#EXTINF:-1 tvg-id="ext" tvg-name="DOC-DW En EspaÃ±ol (Z)(1080)" tvg-logo="" group-title="Documentales",DOC-DW En EspaÃ±ol (Z)(1080)
+#EXTINF:-1 tvg-id="ext" tvg-name="DOC-DW En Español (Z)(1080)" tvg-logo="" group-title="Documentales",DOC-DW En Español (Z)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9791
 #EXTINF:-1 tvg-id="ext" tvg-name="DOC-Food Network (Z)(720)" tvg-logo="" group-title="Documentales",DOC-Food Network (Z)(720)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9792
@@ -1489,7 +1489,7 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9806
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9848
 #EXTINF:-1 tvg-id="ext" tvg-name="DOC-Natgeo Wild (Z)(1080)" tvg-logo="" group-title="Documentales",DOC-Natgeo Wild (Z)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9807
-#EXTINF:-1 tvg-id="ext" tvg-name="DOC-NatGeo Wild Ã‘ (TV)(720)" tvg-logo="" group-title="Documentales",DOC-NatGeo Wild Ã‘ (TV)(720)
+#EXTINF:-1 tvg-id="ext" tvg-name="DOC-NatGeo Wild Ñ (TV)(720)" tvg-logo="" group-title="Documentales",DOC-NatGeo Wild Ñ (TV)(720)
 
 #EXTINF:-1 tvg-id="ext" tvg-name="DOC-Smithsonian Channel (L)(720)" tvg-logo="" group-title="Documentales",DOC-Smithsonian Channel (L)(720)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/9850
@@ -1639,9 +1639,9 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/8131
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/88007
 #EXTINF:-1 tvg-id="ext" tvg-name="NOT-BBC World News (M)(720)" tvg-logo="" group-title="Noticias",NOT-BBC World News (M)(720)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/10250
-#EXTINF:-1 tvg-id="ext" tvg-name="NOT-CNN en EspaÃ±ol (M)(1080)" tvg-logo="" group-title="Noticias",NOT-CNN en EspaÃ±ol (M)(1080)
+#EXTINF:-1 tvg-id="ext" tvg-name="NOT-CNN en Español (M)(1080)" tvg-logo="" group-title="Noticias",NOT-CNN en Español (M)(1080)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/10251
-#EXTINF:-1 tvg-id="ext" tvg-name="NOT-CNN en EspaÃ±ol (M)(720)" tvg-logo="" group-title="Noticias",NOT-CNN en EspaÃ±ol (M)(720)
+#EXTINF:-1 tvg-id="ext" tvg-name="NOT-CNN en Español (M)(720)" tvg-logo="" group-title="Noticias",NOT-CNN en Español (M)(720)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/10252
 #EXTINF:-1 tvg-id="ext" tvg-name="NOT-CNN USA (TV)(720)" tvg-logo="" group-title="Noticias",NOT-CNN USA (TV)(720)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/10253
