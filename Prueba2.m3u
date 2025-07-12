@@ -1635,6 +1635,11 @@ http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/8129
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/8130
 #EXTINF:-1 tvg-id="ext" tvg-name="CR-Tigo Sports 1 (1080)(M)" tvg-logo="" group-title="Costa Rica",CR-Tigo Sports 1 (1080)(M)
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/8131
+#EXTINF:-1 tvg-id="" tvg-name="OPA" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Costa Rica",OPA
+https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TRIVISION 36" tvg-logo="https://i.imgur.com/aadWnIx.jpg" group-title="Costa Rica",TRIVISION 36
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="ext" tvg-name="NCTV | CL" tvg-logo="" group-title="Noticias",NCTV | CL
 http://tv.zeuspro.xyz:8080/maguimack0824.2/sByZ5ZRahO/88007
 #EXTINF:-1 tvg-id="ext" tvg-name="NOT-BBC World News (M)(720)" tvg-logo="" group-title="Noticias",NOT-BBC World News (M)(720)
